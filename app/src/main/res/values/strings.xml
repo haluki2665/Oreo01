@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oreo01</string>
+    <string name="guide">This app is creating QR_CODE for your coupon!</string>
+    <string name="add_code">add code</string>
+</resources>
